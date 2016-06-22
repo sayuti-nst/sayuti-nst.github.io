@@ -39,6 +39,16 @@ audio/berbuka-puasa.ogg
 video/animator-ramadhan.mp4
 
 
+fonts/FontAwesome.otf
+fonts/fontawesome-webfont.eot
+fonts/fontawesome-webfont.svg
+fonts/fontawesome-webfont.ttf
+fonts/fontawesome-webfont.woff
+fonts/glyphicons-halflings-regular.eot
+fonts/glyphicons-halflings-regular.svg
+fonts/glyphicons-halflings-regular.ttf
+fonts/glyphicons-halflings-regular.woff
+
 js/jquery.js
 js/bootstrap.min.js
 js/gmaps.js
